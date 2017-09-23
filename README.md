@@ -1,5 +1,5 @@
 # utcs324
-My Assignments for CS 342 Fall 2017 
+My Assignments for CS 342 Fall 2017 UTexas 
 
 #Assignment 1: Estimation of pi
 
