@@ -11,3 +11,6 @@ My Assignments for CS 342 Fall 2017 UTexas
 
 #Assignment 5: CNN classifier with techniques to prevent overfitting (5 conv layers, 1pool layers and n_param<100,000). Techniques : data augmentation, dropout, weight regularization
 
+#Assignment 6: Deep (20+ layer) CNN classifier with: batch norm and resnet to seep up training (n_param<500k)
+
+
